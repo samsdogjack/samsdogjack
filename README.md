@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samsdogjack
-- 👀 I’m interested in ... Everything 
-- 🌱 I’m currently learning ... Software Development
-- 💞️ I’m looking to collaborate on ... I am open to all kinds of projects
+- 👀 I’m interested in ... All things computer and coding related.
+- 🌱 I’m currently learning ... Software Development/Engineering. 
+- 💞️ I’m looking to collaborate on ... I am open to all kinds of projects.
 - 📫 How to reach me ... shanespillman@gmail.com
 
 <!---
