@@ -1,4 +1,4 @@
-# Hey, I'm Shane 👋
+# Hey, I'm Shane
 
 Full-stack developer on the East Coast. I build web apps, scripts, and tools - mostly JavaScript and Python, with a growing interest in Swift and systems programming.
 
